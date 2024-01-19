@@ -1,6 +1,6 @@
 # Item Management API with FastAPI and Redis
 
-![API Image](link_to_image)
+![API Image](https://github.com/nicholas124/groceries-plugin/blob/main/docIMage.jpeg)
 
 This is a simple FastAPI-based API for managing items, utilizing Redis as the data store. The API allows you to add, list, delete, and remove quantities of items. Each item is represented by an ID, name, and quantity.
 
